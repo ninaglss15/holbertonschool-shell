@@ -1,2 +1,2 @@
 #!/bin/bash
-ecgo "$@" | tr ' ' '\n' | sort | uniq -u
+sort --ignore-case | uniq -u
