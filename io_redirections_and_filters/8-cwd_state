@@ -1,0 +1,18 @@
+#!/bin/bash
+echo "total 52
+drwxr-xr-x 2 root root 4096 Feb 10 09:52  .
+drwxr-xr-x 6 root root 4096 Feb 10 07:53  ..
+-rwxr-xr-x 1 root root   33 Feb 10 07:53  0-hello_world
+-rwxr-xr-x 1 root root   29 Feb 10 07:53  1-confused_smiley
+-rwxr-xr-x 1 root root   28 Feb 10 07:53  2-hellofile
+-rwxr-xr-x 1 root root   39 Feb 10 07:53  3-twofiles
+-rwxr-xr-x 1 root root   29 Feb 10 07:53  4-lastlines
+-rwxr-xr-x 1 root root   30 Feb 10 07:53  5-firstlines
+-rwxr-xr-x 1 root root   37 Feb 10 07:53  6-third_line
+-rwxr-xr-x 1 root root   92 Feb 10 09:29  7-file
+-rw-r--r-- 1 root root    0 Feb 10 09:52  8-cwd_state
+-rw-r--r-- 1 root root   42 Feb 10 08:02  Best
+-rw-r--r-- 1 root root    8 Feb 10 07:53  README.md
+-rw-r--r-- 1 root root   12 Feb 10 09:29 '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'
+-rw-r--r-- 1 root root    0 Feb 10 07:53  iacta
+-rw-r--r-- 1 root root    0 Feb 10 09:52  ls_cwd_content >> ls_cwd_content
